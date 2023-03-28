@@ -1,0 +1,5 @@
+D:\Sword_final\Frequency_Analysis.exe
+D:\Sword_final\Frequency_Analysis.dll
+D:\Sword_final\Frequency_Analysis.deps.json
+D:\Sword_final\Frequency_Analysis.runtimeconfig.json
+D:\Sword_final\Frequency_Analysis.pdb
