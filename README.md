@@ -11,5 +11,5 @@ in the same directory. However, if necessary,
 the file path can be modified to suit your requirements.
 
 In case you require any further information or assistance regarding the application, 
-please do not hesitate to contact me (gerganapaskova01"gmail.com).
+please do not hesitate to contact me (gerganapaskova01@gmail.com).
 I am always available to answer any technical queries or provide additional details.
